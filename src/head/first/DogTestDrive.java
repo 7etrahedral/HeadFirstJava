@@ -7,7 +7,7 @@ public class DogTestDrive {
 		//d.size = 40;
 		//d.bark();
 		Dog one = new Dog();
-		//one.size = 70;
+//		one.size = 70;
 		one.setSize(70);
 		Dog two = new Dog();
 		//two.size = 8;

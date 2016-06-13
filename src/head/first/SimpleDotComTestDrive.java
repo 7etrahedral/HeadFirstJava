@@ -6,7 +6,7 @@ public class SimpleDotComTestDrive {
 		int numOfGuessses = 0;
 		GameHelper helper = new GameHelper();
 		
-		SimpleDotCome dot = new SimpleDotCome();
+		SimpleDotCom dot = new SimpleDotCom();
 		int randomNum = (int) (Math.random() * 5);
 		
 		int[] locations = {randomNum, randomNum+1, randomNum+2};

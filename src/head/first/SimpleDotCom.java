@@ -1,6 +1,6 @@
 package head.first;
 
-public class SimpleDotCome {
+public class SimpleDotCom {
 	
 	int[] locationCells;
 	int numOfHits = 0;
